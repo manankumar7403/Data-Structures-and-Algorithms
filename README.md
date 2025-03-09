@@ -1,7 +1,6 @@
 # Data Structures and Algorithms
 
 ![DSA Animation](./7d9b0b830632f1da9dd57c64a6fc3603.gif)
-7d9b0b830632f1da9dd57c64a6fc3603.gif
 
 Comprehensive implementations of Data Structures and Algorithms (DSA) for problem-solving, coding challenges, and optimization.
 
