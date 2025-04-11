@@ -131,7 +131,3 @@ This repository is for learning and educational use only. Ensure academic integr
 ## License
 
 This project is licensed under the [MIT License](LICENSE.txt).
-
----
-
-Happy coding!
