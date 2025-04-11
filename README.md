@@ -1,6 +1,6 @@
 # Data Structures and Algorithms
 
-![DSA Animation](./7d9b0b830632f1da9dd57c64a6fc3603.gif)
+![DSA Animation](./animation.gif)
 
 ## Table of Contents
 
