@@ -2,20 +2,19 @@
 
 ![DSA Animation](./7d9b0b830632f1da9dd57c64a6fc3603.gif)
 
-Comprehensive implementations of Data Structures and Algorithms (DSA) for problem-solving, coding challenges, and optimization.
-
 ## Table of Contents
+
 - [Overview](#overview)
 - [Repository Structure](#repository-structure)
-- [Time and Space Complexity](#time-and-space-complexity)
 - [How to Use](#how-to-use)
-- [Resources](#resources)
+- [Contributing](#contributing)
+- [Online Resources](#online-resources)
+- [Disclaimer](#disclaimer)
+- [License](#license)
 
 ## Overview
 
-This repository contains implementations of various data structures and algorithms, along with solutions to programming problems and weekly assignments. Each implementation includes detailed explanations and practical examples to help strengthen understanding of DSA fundamentals.
-
-Perfect for technical interview preparation, competitive programming practice, or enhancing your algorithmic problem-solving skills.
+Comprehensive C++ implementations of Data Structures and Algorithms (DSA) for coding challenges, problem-solving, and interview preparation. The repository includes well-commented code with examples and time-space complexity analysis.
 
 ## Repository Structure
 
@@ -52,7 +51,7 @@ The repository is organized into the following sections:
 ### Programming Paradigms and Concepts
 - **18_OOPs** - Object-Oriented Programming concepts
 
-### Challenges and Practice
+### Practice
 - **13_Contest1** - Contest problems and solutions
 - **23_Contest2** - Advanced contest problems and solutions
 - **LeetCode** - Solutions to LeetCode problems
@@ -74,29 +73,64 @@ The repository is organized into the following sections:
 - **37_DP_Assignments**
 - **40_Graphs_Assignments**
 
-## Time and Space Complexity
-
-Implementations include analysis of:
-- Time complexity (best case, average case, worst case)
-- Space complexity
-- Practical performance considerations
-
 ## How to Use
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/mk7403/Data-Structures-and-Algorithms.git
+git clone https://github.com/manankumar7403/Data-Structures-and-Algorithms.git
 cd Data-Structures-and-Algorithms
 ```
 
-2. Navigate to the specific topic folder you're interested in.
+2. Run C++ Code:
+    - You can use VS Code with the Code Runner extension, as the repo is structured for that.
 
-3. Review the implementation details and examples provided in the code and comments.
+    - Alternatively, you can use:
 
-### Online Resources
+        - OnlineGDB / Replit / GeeksforGeeks IDE
+
+        - Or compile locally:
+            ```bash
+            g++ filename.cpp -o filename
+            ./filename
+            ```
+
+3. Navigate to your topic of interest and run the .cpp file.
+
+
+## Contributing
+
+Contributions are welcome! Please:
+1. **Fork** the repository.
+2. Create a **new branch**:  
+   ```bash
+   git checkout -b new-feature
+   ```
+3. Make changes and commit:
+   ```bash
+   git commit -m "Added XYZ Algorithm"
+   ```
+4. Push to the branch
+   ```bash
+   git push origin new-feature
+   ```
+5. Open a pull request.
+
+**Report issues via [GitHub Issues](https://github.com/manankumar7403/Data-Structures-and-Algorithms/issues).**
+
+
+## Online Resources
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)
 - [LeetCode](https://leetcode.com/)
 - [HackerRank](https://www.hackerrank.com/)
+
+
+## Disclaimer
+
+This repository is for learning and educational use only. Ensure academic integrity and follow platform rules while using shared solutions.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE.txt).
 
 ---
 
