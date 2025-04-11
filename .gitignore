@@ -1,0 +1,17 @@
+# Ignore everything by default
+*
+
+# Allow all directories
+!*/
+
+# Allow only .cpp files
+!**/*.cpp
+
+# Allow GIF files
+!**/*.gif
+
+# Allow LICENSE.txt
+!LICENSE.txt
+
+# Add .gitignore
+!.gitignore
