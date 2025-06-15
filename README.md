@@ -68,6 +68,7 @@ The repository is organized into the following sections:
 - **20_Linked_Lists_Assignments**
 - **22_Stacks_Assignments**
 - **25_Queue_Assignments**
+- **27_Trees_Assignments**
 - **32_Heaps_Assignments**
 - **34_Maps_and_Tries_Assignments**
 - **37_DP_Assignments**
