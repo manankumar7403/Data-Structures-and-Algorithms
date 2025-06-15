@@ -25,6 +25,7 @@ int main()
     while(n>0)
     {
         binaryno.push_back(n%2);
+        cout << n%2 << endl;
         n=n/2;
     }
 

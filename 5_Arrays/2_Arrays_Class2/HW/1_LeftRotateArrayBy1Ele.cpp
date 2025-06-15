@@ -9,7 +9,7 @@ using namespace std;
 void leftRotate(vector<int> &arr)
 {
     int temp = arr[0];
-    for(int i=0; i<arr.size(); i++)
+    for(int i=1; i<arr.size(); i++)
     {
         arr[i-1] = arr[i];
     }

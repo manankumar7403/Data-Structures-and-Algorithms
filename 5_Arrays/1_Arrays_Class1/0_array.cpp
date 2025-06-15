@@ -13,7 +13,7 @@ void printArray(int arr[], int size)
 
 int main()
 {
-    int fifth[10] = {1};
+    int fifth[10] = {0};
     int n = 10;
     printArray(fifth, n);
     
